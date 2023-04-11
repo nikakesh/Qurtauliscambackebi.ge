@@ -1,0 +1,92 @@
+.body{
+    background-color: aliceblue;
+    margin: 0px;
+}
+.div1{
+    background-color: blue;
+    padding-top: 5px;
+}
+.text1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.bigQ{
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.div2 {
+    display: inline-block;
+    margin-right: 20px;
+}
+.div3 {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+}
+.div4{
+    display: inline-block;
+    margin-right: 10px;
+}
+.photo1{
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 250px;
+}
+.text2{
+    font-size: 21px;
+}
+.photo2{
+    width: 700px;
+    border-radius: 120px;
+}
+.text3{
+    font-size: 22px;
+    margin-left: 10px;
+}
+.text4{
+    font-size: 30px;
+    font-weight: bold;
+    color:green;
+}
+.text5{
+    font-size: 18px;
+}
+.text6{
+    font-size: 18px;
+    font-weight: bold;
+}
+.text7{
+    font-size: 30px;
+    font-weight: bold;
+    color:orange;
+}
+.searchbar{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    border-radius: 80px;
+    margin-left: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text8{
+    font-size: 30px;
+    font-weight: bold;
+    color:red;
+}
+.button1{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 575px;
+    background-color: blue;
+    color: lightblue;
+    margin-bottom: 20px;
+}
+.linktext{
+    color: aliceblue;
+}
